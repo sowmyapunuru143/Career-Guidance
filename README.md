@@ -12,6 +12,6 @@ my chatbot gives information to the students about career-options to choose.
 My chatbot gives information to students about list of streams after 10th class.This list consist of three streams,Arts stream ,Science stream and commerce streams.Each stream consist of Subjects and career options.I think this chatbot will help the students to take there own decision about the career.In my opinion career guidance help the students successfully manage their career development.
 
 # Block Diagram
-
+![BLOCK DIAGRAM](https://raw.githubusercontent.com/sowmyapunuru143/Career-Guidance/main/Blank%20diagram%20(1).png)
 # YouTube link of my chatbot
 [![YouTube link](https://img.youtube.com/vi/AcvnlDSgvRE/0.jpg)](https://www.youtube.com/watch?v=AcvnlDSgvRE)
