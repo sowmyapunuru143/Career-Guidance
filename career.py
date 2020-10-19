@@ -19,7 +19,7 @@ def current_time():
 def welcome(name):
     message=[
         "How can i help you?",
-        "Is there anything i can help with?"'
+        "Is there anything i can help with?"
     ]
     print(f"{current_time()}!{name},{random.choice(message)}")
 def career_guidance():
